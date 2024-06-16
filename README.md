@@ -1,2 +1,2 @@
 # MCADFsuion
-This is based on the source code for infrared and visible image fusion: MCADFusion
+A new method based on fusion of infrared and visible images: MCADFusion
