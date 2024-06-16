@@ -1,2 +1,2 @@
 # MCADFsuion
-A new method based on fusion of infrared and visible images: MCADFusion
+MCADFusion: A Multi-scale Convolutional Attention Decomposition Approach for Infrared and Visible Light Image Fusion
