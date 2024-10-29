@@ -90,7 +90,7 @@ CDDFuse         6.86    50.77   12.84     1.81    0.66    1.00
 
 ### Illustration of our MCADFusion model.
 
-<img src="FrameWork.pdf" width="90%" align=center />
+![contents](./contents.pdf)
 
 ## 📖 Related Work
 
