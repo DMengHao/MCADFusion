@@ -25,16 +25,16 @@ This paper presents a method called MCADFusion, a feature decomposition techniqu
 
 ### ⚙ Network Architecture
 
-Our CDDFuse is implemented in ``net.py``.
+Our MCADFusion is implemented in ``net.py``.
 
 ### 🏊 Training
 **1. Virtual Environment**
 ```
 # create virtual environment
-conda create -n cddfuse python=3.8.10
-conda activate cddfuse
+conda create -n MCADFusion python=3.8.10
+conda activate MCADFusion
 # select pytorch version yourself
-# install cddfuse requirements
+# install MCADFusion requirements
 pip install -r requirements.txt
 ```
 
@@ -66,7 +66,7 @@ Pretrained models
 
 The test datasets used in the paper have been stored in ``'./test_img/TNO'`` and ``'./test_img/MSRS'``.
 
-If you want to infer with our CDDFuse and obtain the fusion results in our paper, please run 
+If you want to infer with our MCADFusion and obtain the fusion results in our paper, please run 
 ```
 python test_IVF.py
 ```
