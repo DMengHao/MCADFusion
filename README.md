@@ -93,7 +93,6 @@ MCADFusison         6.86    50.77   12.84     1.81    0.66    1.00
   <img src="./frame_work.png" width="60%">
 </p>
 
-![contents](./FrameWork.pdf)
 
 ## 📖 Related Work
 
